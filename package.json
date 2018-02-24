@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Ouraborus/dwa-pokedex/issues"
   },
-  "homepage": "https://github.com/Ouraborus/dwa-pokedex#readme"
+  "homepage": "https://github.com/Ouraborus/dwa-pokedex#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
 }
