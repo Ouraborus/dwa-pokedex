@@ -24,7 +24,7 @@
         @for $i from 1 through 4 {
             &--#{$i}{
                 @extend .pokemons-#{$i + 143};
-                background-position-x: center;
+                background-position-x: right;
                 height: 15vh;
                 transition: all 300ms linear;
                 &:hover{

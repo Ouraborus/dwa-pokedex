@@ -13,5 +13,9 @@
         color: $color4;
         font-family: 'Aldrich', sans-serif;        
     }
+    &__icon{
+        @extend .pokemons-icon;
+        width: 64px;
+        height: 64px;
+    }
 }
-// pokepalettes.com/
