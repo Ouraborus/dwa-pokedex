@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "compass": "compass watch",
-    "serve": "http-server -c-1"
+    "compass": "compass watch"
   },
   "repository": {
     "type": "git",
@@ -18,7 +17,5 @@
     "url": "https://github.com/Ouraborus/dwa-pokedex/issues"
   },
   "homepage": "https://github.com/Ouraborus/dwa-pokedex#readme",
-  "devDependencies": {
-    "http-server": "^0.11.1"
-  }
+  "devDependencies": {}
 }
